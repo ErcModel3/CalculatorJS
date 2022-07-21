@@ -1,3 +1,5 @@
+My first React.JS application and overall first time using JS, CSS and HTML to create a web application
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
